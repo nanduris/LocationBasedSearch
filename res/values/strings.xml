@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, screen!</string>
+    <string name="app_name">lbs</string>
+    <string name="search">search</string>
+                
+    <string-array name="categories">
+        <item>Hospital</item>
+        <item>Restaurant</item>
+        <item>Hotel</item>
+        <item>Bank</item>
+        <item>ATM</item>
+        <item>Theater</item>
+        <item>Auditorium</item>
+        <item>Stadium</item>
+        <item>Police Station</item>
+        <item>Petrol Station</item>
+        <item>Railway Station</item>
+        <item>Shopping</item>
+            </string-array>
+    <string-array name="eventCategories">
+        
+        <item>Restaurant</item>
+        <item>Hotel</item>
+        <item>Theater</item>
+        <item>Auditorium</item>
+        <item>Stadium</item>
+        <item>Shopping</item>
+        <item>others</item>
+            </string-array>
+    </resources>
